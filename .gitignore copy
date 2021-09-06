@@ -94,6 +94,7 @@ logs
 results
 node_modules
 .node_history
+yarn.lock
 
 ############################
 # Tests
@@ -112,4 +113,3 @@ exports
 *.cache
 build
 .strapi-updater.json
-yarn.lock
